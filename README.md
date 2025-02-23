@@ -126,3 +126,6 @@ This tool is designed to assist in the recruitment process but should not comple
 - Video interview capabilities
 - Skills assessment integration
 - Multi-language support
+
+## Live Streamlit App url
+https://deplomentproject-nsvyylgbagf56gxhmdz4wm.streamlit.app/
