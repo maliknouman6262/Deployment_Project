@@ -5,6 +5,7 @@ streamlit==1.40.2
 PyPDF2==3.0.1
 streamlit-pdf-viewer==0.0.19
 requests==2.32.3
+openai
 pytz==2023.4
 typing-extensions>=4.9.0
 
